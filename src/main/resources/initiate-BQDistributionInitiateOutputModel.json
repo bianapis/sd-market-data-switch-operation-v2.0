@@ -1,0 +1,15 @@
+{
+  "distributionInitiateActionRecord" : {},
+  "distributionInstanceReference" : "DIR742910",
+  "distributionInstanceStatus" : "distributionInstanceStatus",
+  "informationFeedSwitchoperatingSessionInstanceRecord" : {
+    "marketInformationFeedServiceProfile" : "marketInformationFeedServiceProfile",
+    "marketInformationFeedServiceReference" : "734097"
+  },
+  "distributionInitiateActionReference" : "DIAR741026",
+  "distributionInstanceRecord" : {
+    "marketDataSwitchServiceUserSessionRecord" : {},
+    "marketDataSwitchUserAccessRightsRecordReference" : "754899",
+    "marketDataSwitchUserAccessRightsRecord" : {}
+  }
+}

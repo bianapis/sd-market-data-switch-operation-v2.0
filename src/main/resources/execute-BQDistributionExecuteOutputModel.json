@@ -1,0 +1,11 @@
+{
+  "distributionExecuteActionTaskReference" : "DEATR716639",
+  "distributionExecuteRecordReference" : "DERR747322",
+  "executeResponseRecord" : {},
+  "distributionExecuteActionTaskRecord" : {},
+  "distributionInstanceRecord" : {
+    "marketDataSwitchServiceUserSessionRecord" : {},
+    "marketDataSwitchUserAccessRightsRecordReference" : "753410",
+    "marketDataSwitchUserAccessRightsRecord" : {}
+  }
+}

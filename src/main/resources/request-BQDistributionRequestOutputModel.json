@@ -1,0 +1,11 @@
+{
+  "distributionRequestRecordReference" : "DRRR789804",
+  "distributionRequestActionTaskReference" : "DRATR783976",
+  "distributionInstanceRecord" : {
+    "marketDataSwitchServiceUserSessionRecord" : {},
+    "marketDataSwitchUserAccessRightsRecordReference" : "735471",
+    "marketDataSwitchUserAccessRightsRecord" : {}
+  },
+  "requestResponseRecord" : {},
+  "distributionRequestActionTaskRecord" : {}
+}

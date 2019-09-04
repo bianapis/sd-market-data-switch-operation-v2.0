@@ -1,0 +1,19 @@
+{
+  "informationFeedSwitchoperatingSessionRetrieveActionTaskRecord" : {},
+  "informationFeedSwitchoperatingSessionInstanceAnalysis" : {
+    "informationFeedSwitchoperatingSessionInstanceAnalysisReportType" : "informationFeedSwitchoperatingSessionInstanceAnalysisReportType",
+    "informationFeedSwitchoperatingSessionInstanceAnalysisData" : "informationFeedSwitchoperatingSessionInstanceAnalysisData",
+    "informationFeedSwitchoperatingSessionInstanceAnalysisReport" : {}
+  },
+  "informationFeedSwitchoperatingSessionRetrieveActionTaskReference" : "IFSOSRATR703763",
+  "informationFeedSwitchoperatingSessionRetrieveActionResponse" : "informationFeedSwitchoperatingSessionRetrieveActionResponse",
+  "informationFeedSwitchoperatingSessionInstanceRecord" : {
+    "marketInformationFeedServiceProfile" : "marketInformationFeedServiceProfile",
+    "marketInformationFeedServiceReference" : "705212"
+  },
+  "informationFeedSwitchoperatingSessionInstanceReportRecord" : {
+    "informationFeedSwitchoperatingSessionInstanceReportType" : "informationFeedSwitchoperatingSessionInstanceReportType",
+    "informationFeedSwitchoperatingSessionInstanceReport" : {},
+    "informationFeedSwitchoperatingSessionInstanceReportData" : "informationFeedSwitchoperatingSessionInstanceReportData"
+  }
+}

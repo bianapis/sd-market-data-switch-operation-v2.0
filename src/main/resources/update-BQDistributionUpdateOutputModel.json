@@ -1,0 +1,10 @@
+{
+  "updateResponseRecord" : {},
+  "distributionUpdateActionTaskReference" : "DUATR796077",
+  "distributionUpdateActionTaskRecord" : {},
+  "distributionInstanceRecord" : {
+    "marketDataSwitchServiceUserSessionRecord" : {},
+    "marketDataSwitchUserAccessRightsRecordReference" : "737513",
+    "marketDataSwitchUserAccessRightsRecord" : {}
+  }
+}

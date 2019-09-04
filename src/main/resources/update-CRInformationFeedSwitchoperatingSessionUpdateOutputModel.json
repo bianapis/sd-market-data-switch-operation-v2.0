@@ -1,0 +1,9 @@
+{
+  "informationFeedSwitchoperatingSessionUpdateActionTaskReference" : "IFSOSUATR792244",
+  "informationFeedSwitchoperatingSessionInstanceRecord" : {
+    "marketInformationFeedServiceProfile" : "marketInformationFeedServiceProfile",
+    "marketInformationFeedServiceReference" : "778070"
+  },
+  "updateResponseRecord" : {},
+  "informationFeedSwitchoperatingSessionUpdateActionTaskRecord" : {}
+}

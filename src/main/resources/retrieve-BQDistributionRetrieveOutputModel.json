@@ -1,0 +1,26 @@
+{
+  "distributionRetrieveActionTaskReference" : "DRATR794256",
+  "distributionRetrieveActionTaskRecord" : {},
+  "distributionRetrieveActionResponse" : "distributionRetrieveActionResponse",
+  "distributionInstanceReport" : {
+    "distributionInstanceReport" : {},
+    "distributionInstanceReportRecord" : {},
+    "distributionInstanceReportType" : "distributionInstanceReportType",
+    "distributionInstanceReportParameters" : "distributionInstanceReportParameters"
+  },
+  "informationFeedSwitchoperatingSessionInstanceRecord" : {
+    "marketInformationFeedServiceProfile" : "marketInformationFeedServiceProfile",
+    "marketInformationFeedServiceReference" : "750698"
+  },
+  "distributionInstanceAnalysis" : {
+    "distributionInstanceAnalysisReportType" : "distributionInstanceAnalysisReportType",
+    "distributionInstanceAnalysisParameters" : "distributionInstanceAnalysisParameters",
+    "distributionInstanceAnalysisReport" : {},
+    "distributionInstanceAnalysisRecord" : {}
+  },
+  "distributionInstanceRecord" : {
+    "marketDataSwitchServiceUserSessionRecord" : {},
+    "marketDataSwitchUserAccessRightsRecordReference" : "790004",
+    "marketDataSwitchUserAccessRightsRecord" : {}
+  }
+}

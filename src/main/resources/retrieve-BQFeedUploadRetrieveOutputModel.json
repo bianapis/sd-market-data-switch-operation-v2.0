@@ -1,0 +1,22 @@
+{
+  "feedUploadRetrieveActionTaskRecord" : {},
+  "feedUploadInstanceAnalysis" : {
+    "feedUploadInstanceAnalysisReportType" : "feedUploadInstanceAnalysisReportType",
+    "feedUploadInstanceAnalysisReport" : {},
+    "feedUploadInstanceAnalysisRecord" : {},
+    "feedUploadInstanceAnalysisParameters" : "feedUploadInstanceAnalysisParameters"
+  },
+  "feedUploadInstanceRecord" : {},
+  "informationFeedSwitchoperatingSessionInstanceRecord" : {
+    "marketInformationFeedServiceProfile" : "marketInformationFeedServiceProfile",
+    "marketInformationFeedServiceReference" : "756772"
+  },
+  "feedUploadRetrieveActionResponse" : "feedUploadRetrieveActionResponse",
+  "feedUploadRetrieveActionTaskReference" : "FURATR720333",
+  "feedUploadInstanceReport" : {
+    "feedUploadInstanceReportType" : "feedUploadInstanceReportType",
+    "feedUploadInstanceReportParameters" : "feedUploadInstanceReportParameters",
+    "feedUploadInstanceReportRecord" : {},
+    "feedUploadInstanceReport" : {}
+  }
+}

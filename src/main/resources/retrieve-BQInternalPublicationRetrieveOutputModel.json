@@ -1,0 +1,21 @@
+{
+  "internalPublicationRetrieveActionTaskRecord" : {},
+  "internalPublicationInstanceAnalysis" : {
+    "internalPublicationInstanceAnalysisReportType" : "internalPublicationInstanceAnalysisReportType",
+    "internalPublicationInstanceAnalysisReport" : {},
+    "internalPublicationInstanceAnalysisRecord" : {},
+    "internalPublicationInstanceAnalysisParameters" : "internalPublicationInstanceAnalysisParameters"
+  },
+  "informationFeedSwitchoperatingSessionInstanceRecord" : {
+    "marketInformationFeedServiceProfile" : "marketInformationFeedServiceProfile",
+    "marketInformationFeedServiceReference" : "721916"
+  },
+  "internalPublicationRetrieveActionTaskReference" : "IPRATR765569",
+  "internalPublicationInstanceReport" : {
+    "internalPublicationInstanceReportParameters" : "internalPublicationInstanceReportParameters",
+    "internalPublicationInstanceReport" : {},
+    "internalPublicationInstanceReportRecord" : {},
+    "internalPublicationInstanceReportType" : "internalPublicationInstanceReportType"
+  },
+  "internalPublicationRetrieveActionResponse" : "internalPublicationRetrieveActionResponse"
+}

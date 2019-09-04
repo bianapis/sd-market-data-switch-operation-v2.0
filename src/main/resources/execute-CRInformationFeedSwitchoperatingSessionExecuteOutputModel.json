@@ -1,0 +1,9 @@
+{
+  "executeRecordReference" : "ERR796161",
+  "executeResponseRecord" : {},
+  "informationFeedSwitchoperatingSessionInstanceRecord" : {
+    "marketInformationFeedServiceProfile" : "marketInformationFeedServiceProfile"
+  },
+  "informationFeedSwitchoperatingSessionExecuteActionTaskRecord" : {},
+  "informationFeedSwitchoperatingSessionExecuteActionTaskReference" : "IFSOSEATR769953"
+}
